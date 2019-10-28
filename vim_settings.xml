@@ -1,0 +1,187 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/mglda/pdftowordcloud.py" timestamp="1562266740632">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/lda_analysis/vocabulary.py" timestamp="1562268992754">
+        <mark key="[" line="67" column="36" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/lda_analysis2.0/preprocessing.py" timestamp="1562527573991">
+        <mark key="'" line="33" column="11" />
+        <mark key="[" line="30" column="81" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+      </file>
+      <file name="/Python Console" timestamp="1562268964482">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Python Projects/graph_structure_rank/string_analysis_v0.4.py" timestamp="1562348984406">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="258" column="42" />
+      </file>
+      <file name="/a.dummy" timestamp="1562276511598">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/lda_analysis/lda.py" timestamp="1562299285948">
+        <mark key="[" line="105" column="15" />
+        <mark key="]" line="80" column="9" />
+        <mark key="." line="80" column="9" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/lda_analysis2.0/review_process.py" timestamp="1562368312149">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/lda_analysis/getabstracts.py" timestamp="1562269217410">
+        <mark key="'" line="37" column="19" />
+        <mark key="[" line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/Python Projects/graph_structure_rank/personalized_rank.py" timestamp="1562252746602">
+        <mark key="[" line="101" column="75" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/lda_analysis/pdftothumbs.py" timestamp="1562268420323">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/lda_analysis/generatenicelda.py" timestamp="1562273180995">
+        <mark key="[" line="98" column="45" />
+        <mark key="]" line="89" column="25" />
+        <mark key="." line="89" column="25" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/lda_analysis/pdftowordcloud.py" timestamp="1562268344352">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1562525741914">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Python Projects/graph_structure_rank/GOOGLE_REVIEWS.csv" timestamp="1562087116004">
+        <mark key="[" line="52" column="35" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mglda/vocabulary.py" timestamp="1562263675333">
+        <mark key="[" line="67" column="40" />
+      </file>
+      <file name="$USER_HOME$/Python Projects/graph_structure_rank/string_analysis_v0.5.py" timestamp="1562348975171">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/lda_analysis/scrape.py" timestamp="1562273855914">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/mglda/mglda.py" timestamp="1562084183034">
+        <mark key="[" line="49" column="14" />
+      </file>
+      <file name="$USER_HOME$/Python Projects/fake_review_language_classifier/polarity_analysis.py" timestamp="1561477690489">
+        <mark key="[" line="0" column="43" />
+      </file>
+      <file name="$USER_HOME$/Python Projects/graph_structure_rank/g_test.txt" timestamp="1562086777017">
+        <mark key="[" line="28" column="22" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/lda_analysis/makecorpus.py" timestamp="1562268838628">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+      </file>
+      <file name="$USER_HOME$/Python Projects/graph_structure_rank/dataCSV.py" timestamp="1562343960323">
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/lda_analysis/generatenice.py" timestamp="1562096743637">
+        <mark key="[" line="6" column="8" />
+      </file>
+      <file name="$USER_HOME$/Python Projects/fake_review_language_classifier/lda_analysis.py" timestamp="1561473686064">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Python Projects/graph_structure_rank/cleanedgraph.txt/part-00000-71ae1782-fa1c-4c67-8cfa-ece170557469-c000.txt" timestamp="1561757240355">
+        <mark key="[" line="389" column="93" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="54" column="4" filename="$USER_HOME$/Python Projects/review_analysis/report_output.py" />
+      <jump line="15" column="23" filename="$USER_HOME$/Python Projects/fake_review_language_classifier/review_analysis1.0.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/Python Projects/graph_structure_rank/dataCSV.py" />
+      <jump line="37" column="19" filename="$USER_HOME$/PycharmProjects/lda_analysis/getabstracts.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Python Projects/graph_structure_rank/string_analysis_v0.2.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Python Projects/graph_structure_rank/string_analysis_v0.3.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Python Projects/graph_structure_rank/string_analysis_v0.4.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/Python Projects/graph_structure_rank/string_analysis_v0.5.py" />
+      <jump line="13" column="45" filename="$USER_HOME$/PycharmProjects/lda_analysis2.0/preprocessing.py" />
+      <jump line="22" column="43" filename="$USER_HOME$/PycharmProjects/lda_analysis2.0/review_process.py" />
+      <jump line="32" column="11" filename="$USER_HOME$/PycharmProjects/lda_analysis2.0/preprocessing.py" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBwcmludChib3dfY29ycHVzKQ==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBwcmludChib3dfY29ycHVzKQ==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IAoKICAgIA==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBwcmludChib3dfY29ycHVzX3VwZGF0ZVswXSkKICAgIGV4Y2VwdDoKICAgICAgICBwYXNz</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGZvciBrLCB2IGluIGRpY3Rpb25hcnkuaXRlcml0ZW1zKCk6CiAgICAgICAgcHJpbnQoaywgdik=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHVkZl9nZW5zaW1fY29ycG9yYSA9IHVkZihnZW5zaW1fY29ycG9yYSwgQXJyYXlUeXBlKAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHVkZl9nZW5zaW1fY29ycG9yYSA9IHVkZihnZW5zaW1fY29ycG9yYSwgKQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>for k, v in dictionary.iteritems():
+    print(k)
+    print(dictionary[k])
+    print(v)</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHVkZl9nZW5zaW1fY29ycG9yYSA9IHVkZihnZW5zaW1fY29ycG9yYSwgKQo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>from gensim.utils import simple_preprocess
+from gensim.parsing.preprocessing import STOPWORDS
+from nltk.stem import WordNetLemmatizer, SnowballStemmer
+from nltk.stem.porter import *</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">ICAgICAgICBwcmludChsZGFfaW5mbyk=</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxmcm9tXD4=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxmcm9tXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxmcm9tXD4=</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxuZXdfcHJvZF9kYXRhXD4=</entry>
+        <entry encoding="base64">XDwnXD4=</entry>
+        <entry encoding="base64">XDxmcm9tXD4=</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

@@ -1,0 +1,33 @@
+if self.trigger == 'emotion':
+	try:
+	 response = naturalLanguageUnderstanding.analyze(
+     text = str(sentence).encode('utf-8'),
+	 features=Features(emotion=EmotionOptions())).get_result()
+                        
+ 	 output = json.loads(json.dumps(response, indent = 2))
+     emotionScore = str(output['emotion']).split('\'emotion\': ')[1]
+     emotionScore = emotionScore.strip("}") + "}"
+                            
+	except:
+		emotionScore = "{'anger': 0, 'joy': 0, 'sadness': 0, 'fear': 0, 'disgust': 0}"
+        ""
+        emotionScoreDict = ast.literal_eval(emotionScore)
+        angerScore = emotionScoreDict['anger']
+        joyScore = emotionScoreDict['joy']
+	    sadScore = emotionScoreDict['sadness']
+	 	fearScore = emotionScoreDict['fear']
+		disgustScore = emotionScoreDict['disgust']
+        
+		negativeScore = angerScore - sadScore - fearScore - disgustScore
+		totalScore = joyScore - negativeScore
+		
+		if abs(joyScore) > abs(negativeScore):
+			testScore = joyScore - negativeScore / 4.0
+        
+		if abs(negativeScore) > abs(joyScore):
+			testScore = negativeScore / 4.0 + joyScore
+        
+		sentenceScore.append(totalScore)
+		regressionScore.append(testScore)
+                           
+                            

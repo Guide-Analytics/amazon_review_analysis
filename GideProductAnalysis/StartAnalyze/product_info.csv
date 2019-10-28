@@ -1,0 +1,83 @@
+Product Info,"Product Name:  || Date Scraped: [datetime.datetime(2018, 12, 18, 12, 0, 25, 591612)]",,Product URL: https://www.amazon.ca/Comfort-Zone-CZST161BTE-Pedestal-Fan/dp/B004IPA774/ref=cm_cr_arp_d_product_top?ie=UTF8
+KEYWORDS,Keywords Sentiments Score,Keywords Confidence Score,Sentence,Sentiment Score,Confidence Score,Author,Rating,Average Rating,Category
+SCRATCH,0.0,2.75,"it works fine and does what it's supposed to do, but has scuffs and scratch marks on it.",0.0,0.5,merieme,2,4.1,NULL
+CHEAP,0.551080777777778,2.148611111111113,The last one we bought (cheap junk from Canadian Tire) lasted 10 years and it was literally only shut off to clean it.,-0.962563,0.616666666667,Ron Seigel,1,4.1,NULL
+CHEAP,0.551080777777778,2.148611111111113,Great for a cheap fan for my home gym.,0.801091,0.725,Jessica McBride,4,4.1,NULL
+CHEAP,0.551080777777778,2.148611111111113,Does the trick buy feels especially cheap.,-0.730286,1.0,Christopher Darling,4,4.1,NULL
+CHEAP,0.551080777777778,2.148611111111113,This one is maybe slightly below in terms of quality of materials our cheapest fan.,0.804172,0.166666666667,Christopher Darling,4,4.1,NULL
+CHEAP,0.551080777777778,2.148611111111113,It's a cheap fan that works fine.,0.669177,0.6,Christopher Darling,4,4.1,NULL
+SPEED,3.044288499999999,2.2916666666666665,Bought two of these and the motor on one of them doesn't run smoothly - it still sends breeze but it does faster and slower motion constantly regardless of the speed choice.,0.553507,0.416666666667,Allrounder,2,4.1,NULL
+SLOW,0.6439391999999997,1.2422916666666666,Bought two of these and the motor on one of them doesn't run smoothly - it still sends breeze but it does faster and slower motion constantly regardless of the speed choice.,0.553507,0.416666666667,Allrounder,2,4.1,NULL
+PART,2.083920187499999,1.2936111111111108,"Easy to put together, works fine for cooling my small apartment",0.942883,0.577777777778,Dan McKelvey,4,4.1,NULL
+PART,2.083920187499999,1.2936111111111108,Awesome fan though the parts are not of high quality.,0.988448,0.77,Denny Samuel Thomas,5,4.1,NULL
+PART,2.083920187499999,1.2936111111111108,I worked in the department that sold fans at Sears for 4 years.,0.628221,0.0,Christopher Darling,4,4.1,NULL
+CONDITION,-4.4720005,3.1625000000000005,"Well, not fast enough.. blades are just moving fast but not providing any good air conditioning.",-0.813091,0.575,Amazon Customer 2018-10-22,1,4.1,NULL
+DOWN,-0.669501,0.7346450617283952,The legs fold up when you left the base to move it and when you go to set it back down if youre not careful itll fall over,-0.60512,0.457777777778,scott morrell,3,4.1,NULL
+SMALL,0.19334268292682916,0.7631597687542813,"Easy to put together, works fine for cooling my small apartment",0.942883,0.577777777778,Dan McKelvey,4,4.1,NULL
+SMALL,0.19334268292682916,0.7631597687542813,"A little flimsy looking looking, I wouldnt have it around small children",-0.882675,0.45,Jessica McBride,4,4.1,NULL
+SIDE,0.683941052631579,0.8841169843801424,Decent quality considering the price,0.813103,0.666666666667,M Jean Sommerdyk,4,4.1,NULL
+HARM,1.8675365000000002,0.0,Nothing fancy butworks like a charm.,0.522418,0.0,Matthew Wickware,5,4.1,NULL
+WEIGHT,2.3431513333333327,1.6849999999999998,Quiet and extremely lightweight,0.94625,0.666666666667,neighbour2thenorth,5,4.1,NULL
+BACK,-0.5023726315789476,0.4854532163742689,The legs fold up when you left the base to move it and when you go to set it back down if youre not careful itll fall over,-0.60512,0.457777777778,scott morrell,3,4.1,NULL
+DESIGN,0.2924628333333334,0.36047619047619045,Does what is designed.,0.0,0.0,Shopaholic,4,4.1,NULL
+NOISE,0.5564005999999996,3.0777777777777775,Luckily for us it's really just meant for white noise in our bedroom.,0.769989,0.344444444444,Ron Seigel,1,4.1,NULL
+NOISE,0.5564005999999996,3.0777777777777775,Make a weird noise when on rotation,-0.576895,1.0,makaveli,1,4.1,NULL
+NOISY,2.827317666666667,3.0666666666666664,- Very easy to assemble - Not to noisy - Good quality for the price,0.855677,0.8,Christian,5,4.1,NULL
+LAST,-0.3601933599999999,0.914689177489177,"It will do the job I need, but the plastic cracked easily.",0.51722,0.833333333333,Amazon Customer 2018-09-30,4,4.1,NULL
+LAST,-0.3601933599999999,0.914689177489177,"The plastic is so flimsy, it is a dollar store quality.",-0.611948,0.0,Allrounder,2,4.1,NULL
+LAST,-0.3601933599999999,0.914689177489177,The last one we bought (cheap junk from Canadian Tire) lasted 10 years and it was literally only shut off to clean it.,-0.962563,0.616666666667,Ron Seigel,1,4.1,NULL
+LAST,-0.3601933599999999,0.914689177489177,No way this one lasts a year.,0.0,0.0,Ron Seigel,1,4.1,NULL
+QUIET,2.2643812857142858,1.4785714285714282,"Easy to assemble, works well, quiet.",0.916166,0.583333333333,Kindle Customer,5,4.1,NULL
+QUIET,2.2643812857142858,1.4785714285714282,A nice quiet fan to circulate the air.,0.985583,0.666666666667,Eldon Cooper,5,4.1,NULL
+LOUD,-0.7250247142857141,2.4439495028780756,"Not the best time quality you can find, loud and doesnt cool the room.",-0.846191,0.583333333333,Customer,2,4.1,NULL
+LOUD,-0.7250247142857141,2.4439495028780756,Works well but really loud,0.387282,0.8,Sheila Borden,4,4.1,NULL
+MOTOR,0.11886619999999974,1.0166666666666666,Bought two of these and the motor on one of them doesn't run smoothly - it still sends breeze but it does faster and slower motion constantly regardless of the speed choice.,0.553507,0.416666666667,Allrounder,2,4.1,NULL
+MOTOR,0.11886619999999974,1.0166666666666666,Smells like burnt motor and won't turn on anymore.,-0.915086,0.0,Joshua Kennedy,1,4.1,NULL
+QUALITY,0.7326824659090909,1.0455787337662341,"It is extremely flimsy, poor quality",-0.983938,0.8,Typhanie,2,4.1,NULL
+QUALITY,0.7326824659090909,1.0455787337662341,Decent quality considering the price,0.813103,0.666666666667,M Jean Sommerdyk,4,4.1,NULL
+QUALITY,0.7326824659090909,1.0455787337662341,"Not the best time quality you can find, loud and doesnt cool the room.",-0.846191,0.583333333333,Customer,2,4.1,NULL
+QUALITY,0.7326824659090909,1.0455787337662341,"The plastic is so flimsy, it is a dollar store quality.",-0.611948,0.0,Allrounder,2,4.1,NULL
+QUALITY,0.7326824659090909,1.0455787337662341,- Very easy to assemble - Not to noisy - Good quality for the price,0.855677,0.8,Christian,5,4.1,NULL
+QUALITY,0.7326824659090909,1.0455787337662341,Awesome fan though the parts are not of high quality.,0.988448,0.77,Denny Samuel Thomas,5,4.1,NULL
+QUALITY,0.7326824659090909,1.0455787337662341,This one is maybe slightly below in terms of quality of materials our cheapest fan.,0.804172,0.166666666667,Christopher Darling,4,4.1,NULL
+LONG,0.020376857142857144,0.6849603174603173,I don't expect it to have a long life though.,-0.555532,0.4,Christopher Darling,4,4.1,NULL
+TOP,-0.5309944814814818,0.44140211640211635,I had this fan for less then three months and it had stopped working!,-0.926092,0.0666666666667,Jacklyn Myers,1,4.1,NULL
+TOP,-0.5309944814814818,0.44140211640211635,Not even 24 hrs of use and already stopped working.,-0.951318,0.0,Joshua Kennedy,1,4.1,NULL
+FAST,0.31770029411764705,0.8798325163398696,Bought two of these and the motor on one of them doesn't run smoothly - it still sends breeze but it does faster and slower motion constantly regardless of the speed choice.,0.553507,0.416666666667,Allrounder,2,4.1,NULL
+FAST,0.31770029411764705,0.8798325163398696,"Well, not fast enough.. blades are just moving fast but not providing any good air conditioning.",-0.813091,0.575,Amazon Customer 2018-10-22,1,4.1,NULL
+PLASTIC,-0.002406999999999937,1.431439393939394,"It will do the job I need, but the plastic cracked easily.",0.51722,0.833333333333,Amazon Customer 2018-09-30,4,4.1,NULL
+PLASTIC,-0.002406999999999937,1.431439393939394,"The plastic is so flimsy, it is a dollar store quality.",-0.611948,0.0,Allrounder,2,4.1,NULL
+LOW,0.19388361538461527,0.8941708638583641,Bought two of these and the motor on one of them doesn't run smoothly - it still sends breeze but it does faster and slower motion constantly regardless of the speed choice.,0.553507,0.416666666667,Allrounder,2,4.1,NULL
+LOW,0.19388361538461527,0.8941708638583641,was looking for an economy priced fan that works and it does the only complaint is the lowest setting could be a little lower,-0.651174,0.566666666667,Jennifer,5,4.1,NULL
+LOW,0.19388361538461527,0.8941708638583641,This one is maybe slightly below in terms of quality of materials our cheapest fan.,0.804172,0.166666666667,Christopher Darling,4,4.1,NULL
+WOBBLY,0.0,0.0,Stand is somewhat wobbly.,0.0,0.0,Allrounder,2,4.1,NULL
+HEAT,-0.4487802857142858,0.4261904761904762,Urgently needed this for the scorching heat this summer.,-0.448792,0.0,Saima Tazreen,4,4.1,NULL
+LOOK,0.29992132653061243,0.8755685131195344,Exactly what I was looking for.,0.0,0.25,Amazon Customer 2018-03-21,5,4.1,NULL
+LOOK,0.29992132653061243,0.8755685131195344,So far looks good,0.949024,0.8,SIBY PAUL,4,4.1,NULL
+LOOK,0.29992132653061243,0.8755685131195344,was looking for an economy priced fan that works and it does the only complaint is the lowest setting could be a little lower,-0.651174,0.566666666667,Jennifer,5,4.1,NULL
+LOOK,0.29992132653061243,0.8755685131195344,"A little flimsy looking looking, I wouldnt have it around small children",-0.882675,0.45,Jessica McBride,4,4.1,NULL
+BLADE,-1.99769475,1.9343750000000004,"Well, not fast enough.. blades are just moving fast but not providing any good air conditioning.",-0.813091,0.575,Amazon Customer 2018-10-22,1,4.1,NULL
+UP,0.5034315324675324,0.9076667182024326,The legs fold up when you left the base to move it and when you go to set it back down if youre not careful itll fall over,-0.60512,0.457777777778,scott morrell,3,4.1,NULL
+UP,0.5034315324675324,0.9076667182024326,Arrived on time and was quite easy to set up.,0.943234,0.833333333333,Saima Tazreen,4,4.1,NULL
+UP,0.5034315324675324,0.9076667182024326,Really easy to set up and runs great throughout the night,0.977534,0.791666666667,Sydney,5,4.1,NULL
+UP,0.5034315324675324,0.9076667182024326,"it works fine and does what it's supposed to do, but has scuffs and scratch marks on it.",0.0,0.5,merieme,2,4.1,NULL
+HIGH,0.7551683,0.884422222222222,Awesome fan though the parts are not of high quality.,0.988448,0.77,Denny Samuel Thomas,5,4.1,NULL
+PRICE,1.4677749000000027,1.3398115079365065,Its easy to assemble and good for the price.,0.936229,0.716666666667,Amazon Customer 2018-09-14,4,4.1,NULL
+PRICE,1.4677749000000027,1.3398115079365065,"Works well, great price.",0.964876,0.75,Michael Hudson,5,4.1,NULL
+PRICE,1.4677749000000027,1.3398115079365065,Decent quality considering the price,0.813103,0.666666666667,M Jean Sommerdyk,4,4.1,NULL
+PRICE,1.4677749000000027,1.3398115079365065,Expected to get what I paid for but you could find something much better for the same price.,0.582341,0.341666666667,Customer,2,4.1,NULL
+PRICE,1.4677749000000027,1.3398115079365065,Good product for the price.,0.753827,0.6,AJ,5,4.1,NULL
+PRICE,1.4677749000000027,1.3398115079365065,- Very easy to assemble - Not to noisy - Good quality for the price,0.855677,0.8,Christian,5,4.1,NULL
+PRICE,1.4677749000000027,1.3398115079365065,Best fan for this price that I've found.,0.933175,0.3,Amazon Customer 2017-12-27,5,4.1,NULL
+PRICE,1.4677749000000027,1.3398115079365065,was looking for an economy priced fan that works and it does the only complaint is the lowest setting could be a little lower,-0.651174,0.566666666667,Jennifer,5,4.1,NULL
+PRICE,1.4677749000000027,1.3398115079365065,Good product for good price,0.892446,0.6,Louis-Étienne Gagnon,5,4.1,NULL
+CHARM,1.8675365000000002,0.0,Nothing fancy butworks like a charm.,0.522418,0.0,Matthew Wickware,5,4.1,NULL
+STURDY,-0.09430385714285716,0.4990079365079364,Not very sturdy,-0.524656,0.3,Heather Hendrick,3,4.1,NULL
+STURDY,-0.09430385714285716,0.4990079365079364,Not too sturdy for a pedestal fan.,-0.276811,0.0,Christopher Darling,4,4.1,NULL
+LIGHT,0.9261871470588238,1.0557364612511673,"Wish the lowest setting was a little bit lighter but thats ok. Im one of those freaks that needs a fan blowing in the bedroom all year round, summer or winter.",-0.451398,0.466666666667,Amazon Customer 2018-03-21,5,4.1,NULL
+LIGHT,0.9261871470588238,1.0557364612511673,Quiet and extremely lightweight,0.94625,0.666666666667,neighbour2thenorth,5,4.1,NULL
+LIGHT,0.9261871470588238,1.0557364612511673,This one is maybe slightly below in terms of quality of materials our cheapest fan.,0.804172,0.166666666667,Christopher Darling,4,4.1,NULL
+LASTED,-2.6470482499999997,1.9458333333333342,The last one we bought (cheap junk from Canadian Tire) lasted 10 years and it was literally only shut off to clean it.,-0.962563,0.616666666667,Ron Seigel,1,4.1,NULL
+ROUGH,2.0041515000000003,1.7180555555555552,Really easy to set up and runs great throughout the night,0.977534,0.791666666667,Sydney,5,4.1,NULL
+BREEZE,3.044288499999999,2.2916666666666665,Bought two of these and the motor on one of them doesn't run smoothly - it still sends breeze but it does faster and slower motion constantly regardless of the speed choice.,0.553507,0.416666666667,Allrounder,2,4.1,NULL
+CLEAN,-0.610846,1.1860389610389612,The last one we bought (cheap junk from Canadian Tire) lasted 10 years and it was literally only shut off to clean it.,-0.962563,0.616666666667,Ron Seigel,1,4.1,NULL

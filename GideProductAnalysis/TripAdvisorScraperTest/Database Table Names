@@ -1,0 +1,9 @@
+ tableProfile = '''('''+author_id+''' BIGINT PRIMARY KEY NOT NULL, '''+product_id+''' BIGINT NOT NULL, '''+author_url+''' VARCHAR(255) NULL, 
+    '''+author+''' VARCHAR(255) NULL, '''+rank+''' INT NULL, '''+num_of_reviews+''' INT NULL, '''+date_scraped+''' timestamp(6) NOT NULL); '''
+    
+    tableProduct = '''('''+product_id+''' BIGINT NOT NULL, '''+author_id+''' BIGINT NOT NULL, '''+product+''' VARCHAR(255) NULL, 
+    '''+product_url+''' VARCHAR(255) NULL, '''+average_rating+''' REAL NULL, '''+max_rating+''' INT NOT NULL, '''+date_scraped+''' timestamp(6) NOT NULL, 
+    PRIMARY KEY ('''+product_id+''', '''+author_id+'''), 
+    FOREIGN KEY ('''+author_id+''') REFERENCES '''+author_name+ '''('''+author_id+'''));
+    
+                                 

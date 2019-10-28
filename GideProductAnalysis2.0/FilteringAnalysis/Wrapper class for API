@@ -1,0 +1,19 @@
+IBM Watson Tone Analyzer
+
+Custom Models for IBM Watson
+
+
+
+Update Query Locks
+
+if sentimentScore != {}:
+            sentimentRows = zip(sentimentScore.keys(), sentimentScore.values())
+            cur.executemany(''' 
+                UPDATE review_table
+                SET review_score = review.review_score
+                FROM (VALUES (%s, %s)) AS review (review_id, review_score)
+                WHERE review_table.review_id = review.review_id
+                ''', sentimentRows)
+                
+                
+-Review Text: Rating and Average Rating and Product ID and Product URL

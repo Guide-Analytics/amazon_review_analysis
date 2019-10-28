@@ -1,0 +1,22 @@
+'''
+
+def resetDataBase():
+    
+    conn = None
+    try:
+        conn = psycopg2.connect(dbname=dbname, host=host, port=port, user=userID)
+        cur = conn.cursor()
+       # cur.execute('''
+        #DROP TABLE '''+review_name+''', 
+        #DROP TABLE '''+product_name+''', 
+        #DROP TABLE '''+author_name+''';
+        ''') 
+        cur.execute("commit;")
+        cur.close()
+    except:
+        print("Database cannot be deleted")
+    finally:
+        if conn is not None:
+            conn.close()
+'''  
+    
