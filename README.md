@@ -1,7 +1,7 @@
 
-## Gide Product Analysis: (macOS Only - not ready for Windows)
+## Guide Product Analysis: (macOS Only)
 
-Welcome to Gide Product Analysis! This is a small-beta platform where you will be entering a website URL that contains product reviews. 
+Welcome to Guide Product Analysis! This is a small-beta platform where you will be entering a website URL that contains product reviews. 
 
 As of now, we currently only support Amazon sites. 
 
