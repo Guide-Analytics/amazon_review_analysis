@@ -1,5 +1,5 @@
 
-## Guide Product Analysis: (macOS Only)
+## Guide Product Analysis for Amazon Version 1: (macOS Only)
 
 Welcome to Guide Product Analysis! This is a small-beta platform where you will be entering a website URL that contains product reviews. 
 
